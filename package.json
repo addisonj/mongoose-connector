@@ -1,0 +1,18 @@
+{
+  "name": "mongoose-connector",
+  "version": "0.0.1",
+  "description": "mongoose 2.0 has different syntax for connection to replica sets, this takes care of that",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/addisonj/mongoose-connector"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "addisonj",
+  "license": "BSD"
+}
